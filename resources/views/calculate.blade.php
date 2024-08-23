@@ -7,6 +7,7 @@
     <input type="number" id="number2" name="number2" required><br><br>
     
     <label for="operation">Operación:</label>
+    
     <select id="operation" name="operation" required>
         <option value="sum">Suma</option>
         <option value="subtract">Resta</option>
